@@ -12,6 +12,7 @@ en:
   field_subject: Subject
   field_description: Description
   field_due_date: Due date
+  field_duration: Estimated time
   field_category: Category
   field_status: Status
   field_assigned_to: Assigned to
