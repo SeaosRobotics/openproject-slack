@@ -12,7 +12,7 @@ en:
   field_subject: Subject
   field_description: Description
   field_due_date: Due date
-  field_duration: Estimated time
+  field_duration: Duration
   field_category: Category
   field_status: Status
   field_assigned_to: Assigned to
@@ -26,4 +26,6 @@ en:
   field_responsible: Responsible
   field_watcher: Watcher
   field_attachments: Attachment
+  field_derived_estimated_hours: Derived estimated hours
+  field_derived_remaining_hours: Derived remaining hours
   none: None
